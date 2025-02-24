@@ -11,3 +11,9 @@
 #third-element {
   font-size: 24px;
 }
+
+#fourth-element {
+  background-color: rgba(135, 250, 111, 0.856);
+  font-size: 24px;
+  font-weight: bold;
+}
